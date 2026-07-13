@@ -190,3 +190,22 @@ footer{
         width: 180px;
     }
 }
+
+#articles,
+#certifications {
+    padding: 50px 20px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.card a {
+    color: #2E7D32;
+    text-decoration: none;
+    font-weight: bold;
+}
